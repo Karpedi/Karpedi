@@ -1,6 +1,10 @@
 # 👋 Welcome
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Electrical+Engineer;Python+Developer;Automation+%26+AI+Enthusiast;Always+Building+Something+New" />
+</p>
 
 I'm an Electrical Engineering graduate passionate about building practical solutions through software, automation, data analysis, and modern engineering tools.
+![](https://komarev.com/ghpvc/?username=Karpedi)
 
 ## ⚡ Areas of Interest
 
